@@ -7,4 +7,4 @@ Il est donc important que vous développiez l’habitude de vous tenir au couran
 Vous devez aussi être capable de monter rapidement en compétence sur une nouvelle thématique, en sachant effectuer une recherche
 et mettre en pratique un nouvel algorithme de façon autonome (POC).
 
-Nous utilisons FixRes ainsi qu'un modèle de la famille ResNeXt.
+Nous utilisons FixRes ainsi qu'un modèle de la famille ResNeXt
